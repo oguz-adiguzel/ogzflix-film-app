@@ -1,0 +1,91 @@
+{
+  "userList": [
+    {
+      "id": 1,
+      "email": "admin@hotmail.com",
+      "password": "123",
+      "userType": "admin"
+    },
+    {
+      "id": 2,
+      "email": "user@hotmail.com",
+      "password": "123",
+      "userType": "user"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "name": "Erşan Kuneri",
+      "director": "Cem Yılmaz",
+      "point": "9.5",
+      "posterUrl": "https://images.justwatch.com/poster/277291474/s718/ersan-kuneri.%7Bformat%7D",
+      "title": "Erşan Kuneri, 13 Mayıs 2022 tarihinde Netflix'te yayınlanan komedi türündeki Türk internet dizisidir.",
+      "iframe": "https://www.youtube.com/embed/y6LUximnJss"
+    },
+    {
+      "id": 2,
+      "name": "G.O.R.A",
+      "director": "Ömer Faruk Sorak",
+      "point": "8.5",
+      "posterUrl": "https://images.justwatch.com/poster/156348565/s332/g-o-r-a.%7Bformat%7D",
+      "title": "G.O.R.A., senaryosunu Cem Yılmaz'ın yazdığı, yönetmenliğini Ömer Faruk Sorak'ın yaptığı, bilimkurgu ve komedi türlerindeki 2004 çıkışlı Türk filmidir.",
+      "iframe": "https://www.youtube.com/embed/UTUiQ9NWZcM"
+    },
+    {
+      "id": 3,
+      "name": "Yahşi Batı",
+      "director": "Ömer Faruk Sorak",
+      "point": "9.1",
+      "posterUrl": "https://static.boxofficeturkiye.com/movie//poster/full/97/2010297-900345837.jpg",
+      "title": "Yahşi Batı, Ömer Faruk Sorak'ın yönetmenliğini, Cem Yılmaz'ın ise senaristliğini ve başrolünü üstlendiği, 2009 yılı yapımı bir Türk komedi-western filmidir.",
+      "iframe": "https://www.youtube.com/embed/r3fovpAfc5k"
+    },
+    {
+      "id": 4,
+      "name": "Hokkabaz",
+      "director": "Ali Taner Baltacı",
+      "point": "8.2",
+      "posterUrl": "https://www.biyografi.info/sinema/afis/id-324.jpg",
+      "title": " Cem Yılmaz'ın senaryosunu yazdığı ve Ali Taner Baltacı ile ortak yönettiği sinema filmidir. Filmde, bir hokkabaz ve yardımcısının turne sırasında yaşadıkları maceralar anlatılmaktadır",
+      "iframe": "https://www.youtube.com/embed/nYyRQ_RXuzg"
+    },
+    {
+      "id": 5,
+      "name": "A.R.O.G",
+      "director": "Ali Taner Baltacı",
+      "point": "9.2",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/tr/3/37/Arog.jpg",
+      "title": "Film, G.O.R.A. filminin ana karakteri Arif'in Yontma Taş Devri'nde geçen yeni macerasını konu almaktadır. 5 Aralık 2008 tarihinde Türkiye'deki sinemalarda gösterime girmiştir.",
+      "iframe": "https://www.youtube.com/embed/s_jGIs9Vs-I"
+    },
+    {
+      "id": 6,
+      "name": "Arif V 216",
+      "director": "Kıvanç Baruönü",
+      "point": "8.5",
+      "posterUrl": "https://cdn.biletiva.com/event/G5262/poster-700x1000.jpg",
+      "title": "Yönetmenliğini Kıvanç Baruönü'nün yaptığı ve senaryosunu Cem Yılmaz'ın yazdığı Türk komedi filmi.[3] Filmin başrollerinde Cem Yılmaz, Ozan Güven, Seda Bakan, Zafer Algöz ve Özkan Uğur yer almaktadır.",
+      "iframe": "https://www.youtube.com/embed/FcT6Y3vlP4I"
+    }
+  ],
+  "myMovieList": [
+    {
+      "id": 5,
+      "name": "A.R.O.G",
+      "director": "Ali Taner Baltacı",
+      "point": "9.2",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/tr/3/37/Arog.jpg",
+      "title": "Film, G.O.R.A. filminin ana karakteri Arif'in Yontma Taş Devri'nde geçen yeni macerasını konu almaktadır. 5 Aralık 2008 tarihinde Türkiye'deki sinemalarda gösterime girmiştir."
+    },
+    {
+      "id": 2,
+      "name": "G.O.R.A",
+      "director": "Ömer Faruk Sorak",
+      "point": "8.5",
+      "posterUrl": "https://images.justwatch.com/poster/156348565/s332/g-o-r-a.%7Bformat%7D",
+      "title": "G.O.R.A., senaryosunu Cem Yılmaz'ın yazdığı, yönetmenliğini Ömer Faruk Sorak'ın yaptığı, bilimkurgu ve komedi türlerindeki 2004 çıkışlı Türk filmidir.",
+      "iframe": "https://www.youtube.com/embed/UTUiQ9NWZcM"
+    }
+  ]
+}
